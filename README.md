@@ -1,16 +1,35 @@
-## Hi there 👋
+# Nome do Projeto
 
-<!--
-**PhelipeGPereira/PhelipeGPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Descrição concisa do que o projeto faz e suas funcionalidades principais.
 
-Here are some ideas to get you started:
+## Tecnologias Utilizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tecnologia 1
+- Tecnologia 2
+- Tecnologia 3
+
+## Instalação
+
+Para instalar o projeto, siga as instruções abaixo:
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/username/nome-do-projeto.git
+    ```
+
+2. Acesse o diretório do projeto:
+    ```bash
+    cd nome-do-projeto
+    ```
+
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+
+## Como Usar
+
+Instruções sobre como executar o projeto:
+
+```bash
+npm start
