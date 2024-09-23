@@ -1,35 +1,19 @@
-# Nome do Projeto
+## Phelipe - Designer Gráfico e Desenvolvedor em Formação
 
-Descrição concisa do que o projeto faz e suas funcionalidades principais.
+### Sobre mim
+Sou formado em Design Gráfico e atualmente cursando Engenharia de Software na Positivo. Minha paixão pela criação e pela tecnologia me impulsiona a desenvolver projetos que combinam a estética com a funcionalidade.
 
-## Tecnologias Utilizadas
+### Habilidades
+* **Design:** Adobe Photoshop, Illustrator, Figma
+* **Programação:**: JAVA, JavaScript, React]
 
-- Tecnologia 1
-- Tecnologia 2
-- Tecnologia 3
+### Contato
+* **E-mail:** phelipecesargp@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/phelipe-pereira-3887a9248/
 
-## Instalação
+### Sobre os Objetivos
+  * **Objetivo:** Me desenvolver na prática.
+  * **Resultados:** Até o momento nada significante...
 
-Para instalar o projeto, siga as instruções abaixo:
-
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/username/nome-do-projeto.git
-    ```
-
-2. Acesse o diretório do projeto:
-    ```bash
-    cd nome-do-projeto
-    ```
-
-3. Instale as dependências:
-    ```bash
-    npm install
-    ```
-
-## Como Usar
-
-Instruções sobre como executar o projeto:
-
-```bash
-npm start
+### Contribuições
+Estou sempre buscando novas oportunidades de aprendizado e colaboração. Sinta-se à vontade para entrar em contato para discutir projetos em conjunto.
