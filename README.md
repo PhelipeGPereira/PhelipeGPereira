@@ -55,9 +55,8 @@ mysql> SELECT * FROM foxhound WHERE operative = 'Phelipe Pereira';
 +----+------------------+------------------------+-------------------------+
 1 row in set (0.01 sec)
 ```
----
 
-### 🦊⚡ FoxHound
+---
 
 <h1 align="center">🦊⚡ Foxhound Mode: ON ⚡🦊</h1>
 
