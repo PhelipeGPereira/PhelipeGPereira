@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Phelipe Pereira!</h1>
+<h1 align="center">🦊⚡ Foxhound Mode: ON ⚡🦊</h1>
 
 <p align="center">
   <a href="mailto:phelipecesargp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -7,15 +7,14 @@
 
 ---
 
-### 🚀 Sobre mim  
-💼 Atualmente trabalho na **Atos** como **Técnico de Infraestrutura**  
-💻 Desenvolvedor Web com forte inclinação para **DBA Oracle**  
-📚 Estudando administração de bancos de dados e cloud  
-⚡ Apaixonado por tecnologia, automação e otimização de sistemas  
+### 👤 Sobre mim  
+💼 Técnico de Infraestrutura na **Atos**  
+💻 Desenvolvedor Web, com foco em **DBA Oracle**  
+⚡ Apaixonado por otimização, automação e banco de dados  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas  
+### 🛠️ Skills  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,java,py,linux,mysql,postgres,oracle" />
@@ -43,17 +42,29 @@
 ### 🎯 Foco Atual  
 - 🔹 Administração e Performance de Bancos de Dados (Oracle, MySQL, PostgreSQL)  
 - 🔹 Desenvolvimento Web com **React | Node.js | TypeScript**  
-- 🔹 Automação e Infraestrutura em Linux  
+- 🔹 Infraestrutura em Linux & Cloud  
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</p>
+### 🖥️ Terminal Mode  
 
- ______   ______     __  __     __  __     ______     __  __     __   __     _____    
-/\  ___\ /\  __ \   /\_\_\_\   /\ \_\ \   /\  __ \   /\ \/\ \   /\ "-.\ \   /\  __-.  
-\ \  __\ \ \ \/\ \  \/_/\_\/_  \ \  __ \  \ \ \/\ \  \ \ \_\ \  \ \ \-.  \  \ \ \/\ \ 
- \ \_\    \ \_____\   /\_\/\_\  \ \_\ \_\  \ \_____\  \ \_____\  \ \_\\"\_\  \ \____- 
-  \/_/     \/_____/   \/_/\/_/   \/_/\/_/   \/_____/   \/_____/   \/_/ \/_/   \/____/ 
+```mysql
+mysql> SELECT * FROM foxhound WHERE operative = 'Phelipe Pereira';
++----+------------------+------------------------+-------------------------+
+| ID | Name             | Role                   | Specialty               |
++----+------------------+------------------------+-------------------------+
+| 01 | Phelipe Pereira  | Infra & Web Developer | Oracle DBA in training  |
++----+------------------+------------------------+-------------------------+
+1 row in set (0.01 sec)
+
+
+
+<h1 align="center">🦊⚡
+███████╗ ██████╗ ██╗  ██╗██╗  ██╗ ██████╗ ██╗   ██╗ ██████╗ ██╗   ██╗███╗   ██╗██████╗ 
+██╔════╝██╔═══██╗██║ ██╔╝██║ ██╔╝██╔═══██╗██║   ██║██╔═══██╗██║   ██║████╗  ██║██╔══██╗
+█████╗  ██║   ██║█████╔╝ █████╔╝ ██║   ██║██║   ██║██║   ██║██║   ██║██╔██╗ ██║██║  ██║
+██╔══╝  ██║   ██║██╔═██╗ ██╔═██╗ ██║   ██║██║   ██║██║   ██║██║   ██║██║╚██╗██║██║  ██║
+██║     ╚██████╔╝██║  ██╗██║  ██╗╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝
+⚡🦊</h1>
 
